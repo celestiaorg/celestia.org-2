@@ -44,7 +44,7 @@
     "gatsby-remark-lottie": "1.0.3",
     "gatsby-source-filesystem": "4.17.0",
     "gatsby-source-lever": "^4.17.0",
-    "gatsby-transformer-remark": "5.17.0",
+    "gatsby-transformer-remark": "6.13.1",
     "gatsby-transformer-sharp": "4.17.0",
     "jquery": "^3.6.0",
     "lottie-web": "^5.7.13",
